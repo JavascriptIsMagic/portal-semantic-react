@@ -1,0 +1,19 @@
+{
+  "name": "portal-semantic-react",
+  "version": "1.0.0",
+  "description": "Semantic React build process for Portal client side.",
+  "main": "Cakefile.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptIsMagic/portal-semantic-react.git"
+  },
+  "author": "Brian <javascriptismagic@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/JavascriptIsMagic/portal-semantic-react/issues"
+  },
+  "homepage": "https://github.com/JavascriptIsMagic/portal-semantic-react#readme"
+}
